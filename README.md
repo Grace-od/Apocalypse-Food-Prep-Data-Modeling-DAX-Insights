@@ -25,4 +25,4 @@ This repository contains a completed Power BI project focused on advanced **Data
 2. Ensure you have the latest version of [Power BI Desktop](https://powerbi.microsoft.com/desktop/) installed.
 3. Open the `.pbix` file to view the data model and interactive insights.
 
-*Developed as part of the Week 8 Data Analytics Curriculum.*
+
