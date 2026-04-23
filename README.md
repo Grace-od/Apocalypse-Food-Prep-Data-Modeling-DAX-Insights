@@ -13,7 +13,7 @@ This repository contains a completed Power BI project focused on advanced **Data
 ### 2. DAX Calculations
 * **Calculated Columns:** Built row-level logic to categorize data and enhance filtering capabilities.
 * **Measures:** Authored dynamic DAX measures for real-time aggregations and KPI tracking.
-* **Functional Logic:** Applied functions to derive specific insights from the `DAX Tutorial` dataset.
+* **Functional Logic:** Applied functions to derive specific insights from the dataset.
 
 ## 🛠️ Technical Stack
 * **Tool:** Power BI Desktop
